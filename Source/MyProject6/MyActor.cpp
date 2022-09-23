@@ -2,8 +2,7 @@
 
 
 #include "MyActor.h"
-
-
+#include "my_package/hello.hxx"
 // Sets default values
 AMyActor::AMyActor()
 {
@@ -15,7 +14,7 @@ AMyActor::AMyActor()
 void AMyActor::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	helloWorld();
 }
 
 // Called every frame
