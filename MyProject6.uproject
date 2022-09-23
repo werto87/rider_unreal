@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E34277D5-A662-4BE8-A581-D0F39B7CBF0B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyProject6",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
